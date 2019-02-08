@@ -1,0 +1,66 @@
+var movie_data = [{
+
+	"movieName": "Austin Powers",
+
+	"movieImg": "img/austin_powers_poster.jpg",
+
+	"movieDescription": "In 1967, British spy Austin Powers thwarts an assassination attempt by his nemesis Dr. Evil in a London nightclub. Dr. Evil escapes in a space rocket and cryogenically freezes himself. Powers volunteers to be placed into cryostasis in case Dr. Evil returns in the future.",
+
+	"movieGenre": "Comdey"
+},
+
+{
+
+	"movieName": "Harold and Kumar Go To White Castle",
+
+	"movieImg": "img/harold_and_kumar_poster.jpg",
+
+	"movieDescription": "Investment banker Harold Lee is persuaded by his colleagues to do their work while they leave for the weekend. Meanwhile, Kumar Patel attends a medical school interview, but intentionally botches it to prevent getting accepted. Harold is attracted to his neighbor, Maria, but is unable to admit his feelings. After smoking marijuana with Kumar, and seeing an advertisement for White Castle, the pair decide to get hamburgers to satisfy their hunger. After traveling to the nearest White Castle in New Brunswick, they find it replaced by 'Burger Shack' but learn of another White Castle in Cherry Hill.",
+
+	"movieGenre": "Comedy"
+},
+
+{
+	"movieName": "Batman Begins",
+
+	"movieImg": "img/batman_poster.jpg",
+
+	"movieDescription": "As a child, Bruce Wayne falls down into a dry well and is attacked by a swarm of bats, subsequently developing chiroptophobia (fear of bats). While watching an opera with his parents, Thomas and Martha, Bruce becomes frightened by performers masquerading as bats and asks to leave. Outside, mugger Joe Chill murders Bruce's parents in front of him. Orphaned, Bruce is raised by the family butler, Alfred Pennyworth, while Chill is imprisoned.",
+
+	"movieGenre": "Action"
+},
+
+{
+
+	"movieName": "007 Golden Eye",
+
+	"movieImg": "img/golden_eye_poster.jpg",
+
+	"movieDescription": "Goldeneye, also sometimes called Golden Eye, and subtitled 'the Secret Life of Ian Fleming', is a British television movie of 1989 about the life of the author Ian Fleming, directed by Don Boyd.",
+
+	"movieGenre": "Action"
+},
+
+{
+
+
+	"movieName": "Saw",
+
+	"movieImg": "img/saw_poster.jpg",
+
+	"movieDescription": "Saw is a 2004 American horror film directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell. In it, Elwes and Whannell portray two men who awake to find themselves chained in a large dilapidated bathroom, with one being ordered to kill the other or his family will die. The screenplay was written by Whannell, who co-created the story with Wan in their screenwriting debuts respectively.",
+
+	"movieGenre": "Horror"
+},
+
+{
+
+	"movieName": "Hostel",
+
+	"movieImg": "img/hostel_poster.jpg",
+
+	"movieDescription": "Hostel is a 2005 American horror film written and directed by Eli Roth. It stars Jay Hernandez and was produced by Mike Fleiss, Eli Roth, and Chris Briggs; Boaz Yakin, Scott Spiegel, and Quentin Tarantino are executive producers",
+
+	"movieGenre": "Horror"
+}];
+

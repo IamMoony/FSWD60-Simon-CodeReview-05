@@ -1,0 +1,9 @@
+body {
+	background-color: darkgray;
+	margin: 0 auto;
+}
+
+.img-size img {
+	width: 100%;
+	height: 100%;
+}
