@@ -4,7 +4,7 @@ var movie_data = [{
 
 	"movieImg": "img/austin_powers_poster.jpg",
 
-	"movieDescription": "In 1967, British spy Austin Powers thwarts an assassination attempt by his nemesis Dr. Evil in a London nightclub. Dr. Evil escapes in a space rocket and cryogenically freezes himself. Powers volunteers to be placed into cryostasis in case Dr. Evil returns in the future.",
+	"movieDescription": "Austin Powers is a series of American spy action comedy films: Austin Powers: International Man of Mystery (1997), Austin Powers: The Spy Who Shagged Me (1999) and Austin Powers in Goldmember (2002). The films were directed by Jay Roach; produced, written by and starring Mike Myers as both the title character and Dr. Evil; and distributed by New Line Cinema.",
 
 	"movieGenre": "Comdey"
 },
@@ -15,7 +15,7 @@ var movie_data = [{
 
 	"movieImg": "img/harold_and_kumar_poster.jpg",
 
-	"movieDescription": "Investment banker Harold Lee is persuaded by his colleagues to do their work while they leave for the weekend. Meanwhile, Kumar Patel attends a medical school interview, but intentionally botches it to prevent getting accepted. Harold is attracted to his neighbor, Maria, but is unable to admit his feelings. After smoking marijuana with Kumar, and seeing an advertisement for White Castle, the pair decide to get hamburgers to satisfy their hunger. After traveling to the nearest White Castle in New Brunswick, they find it replaced by 'Burger Shack' but learn of another White Castle in Cherry Hill.",
+	"movieDescription": "Harold & Kumar Go to White Castle is a 2004 American stoner comedy film and the first installment of the Harold & Kumar series. The film was written by Jon Hurwitz and Hayden Schlossberg, and directed by Danny Leiner.",
 
 	"movieGenre": "Comedy"
 },
