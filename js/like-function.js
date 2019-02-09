@@ -1,16 +1,23 @@
 //add likes on click
-$(document).ready(function() {
-	$(".count-click").click(function(e) { 
-			var target = $(e.target);
-			var parent = target.parent().parent();
-			var obj_count = parent.find(".count")
+btn_like_onClick =	function(e) { 
+	// This is the button you clicked
+	var target = $(e.target);
 
-			var likes = obj_count.html();
-			likes++;
+	// Go to the parent of the movie html
+	var parent = target.parent().parent();
 
-			// Send a like to the server
-			// ...
+	// Get the div where we count
+	var obj_count = parent.find(".count");
+	
+	// Get the hidden ID class
+	var id = parent.find(".ID").html();
 
-			obj_count.html(likes);
-	});
-});
+	// Get the json item
+	var item = movie_data[id];
+	
+	// Increase the json like
+	item.likes++;
+
+	//Output likes in the html
+	obj_count.html(item.likes);
+}

@@ -2,7 +2,7 @@
 
 var movie_data = [{
 
-	"ID": 1,
+	"ID": 0,
 
 	"movieName": "Austin Powers",
 
@@ -10,11 +10,13 @@ var movie_data = [{
 
 	"movieDescription": "Austin Powers is a series of American spy action comedy films: Austin Powers: International Man of Mystery (1997), Austin Powers: The Spy Who Shagged Me (1999) and Austin Powers in Goldmember (2002).              ",
 
-	"movieGenre": "Comedy"
+	"movieGenre": "Comedy",
+
+	"likes": 0
 },
 
 {
-	"ID": 2,
+	"ID": 1,
 
 	"movieName": "Harold and Kumar Go To White Castle",
 
@@ -22,11 +24,13 @@ var movie_data = [{
 
 	"movieDescription": "Harold & Kumar Go to White Castle is a 2004 American stoner comedy film and the first installment of the Harold & Kumar series. The film was written by Jon Hurwitz and Hayden Schlossberg, and directed by Danny Leiner.",
 
-	"movieGenre": "Comedy"
+	"movieGenre": "Comedy",
+
+	"likes": 0
 },
 
 {
-	"ID": 3,
+	"ID": 2,
 
 	"movieName": "Batman Begins",
 
@@ -34,11 +38,13 @@ var movie_data = [{
 
 	"movieDescription": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman, directed by Christopher Nolan and written by Nolan and David S. Goyer.",
 
-	"movieGenre": "Action"
+	"movieGenre": "Action",
+
+	"likes": 0
 },
 
 {
-	"ID": 4,
+	"ID": 3,
 
 	"movieName": "007 Golden Eye",
 
@@ -46,11 +52,13 @@ var movie_data = [{
 
 	"movieDescription": "Goldeneye, also sometimes called Golden Eye, and subtitled 'the Secret Life of Ian Fleming', is a British television movie of 1989 about the life of the author Ian Fleming, directed by Don Boyd.",
 
-	"movieGenre": "Action"
+	"movieGenre": "Action",
+
+	"likes": 0
 },
 
 {
-	"ID": 5,
+	"ID": 4,
 
 	"movieName": "Saw",
 
@@ -58,11 +66,13 @@ var movie_data = [{
 
 	"movieDescription": "Saw is a 2004 American horror film[2][3] directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.",
 
-	"movieGenre": "Horror"
+	"movieGenre": "Horror",
+
+	"likes": 0
 },
 
 {
-	"ID": 6,
+	"ID": 5,
 
 	"movieName": "Hostel",
 
@@ -70,6 +80,8 @@ var movie_data = [{
 
 	"movieDescription": "Hostel is a 2005 American horror film written and directed by Eli Roth. It stars Jay Hernandez and was produced by Mike Fleiss, Eli Roth, and Chris Briggs; Boaz Yakin, Scott Spiegel, and Quentin Tarantino are executive producers",
 
-	"movieGenre": "Horror"
+	"movieGenre": "Horror",
+
+	"likes": 0
 }];
 

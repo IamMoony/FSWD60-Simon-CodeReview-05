@@ -4,13 +4,13 @@ action = $(".Action");
 horror = $(".Horror");
 comedy = $(".Comedy");
 
-//display action only
+//Display action only
 	$("#action-movies").on('click', function() {
 		action.fadeIn(300).css("background-color", "#111111");
 		horror.fadeOut(300);
 		comedy.fadeOut(300);
 		$(this).css("background-color", "lightgrey");
-//display horror only
+//Display horror only
 	});
 	$("#horror-movies").on('click', function() {
 		horror.fadeIn(300).css("background-color", "#111111");
@@ -18,7 +18,7 @@ comedy = $(".Comedy");
 		comedy.fadeOut(300);
 		$(this).css("background-color", "lightgrey");
 		$("action-movies").css("background-color", "white")
-//display comedy only
+//Display comedy only
 	});
 	$("#comedy-movies").on('click', function() {
 		comedy.fadeIn(300).css("background-color", "#111111");
