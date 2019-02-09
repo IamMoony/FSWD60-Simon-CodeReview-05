@@ -29,17 +29,17 @@ body {
 }
 
 .descr {
-	height: auto;
+	height: 300px;
 }
 
 .like-btn {
 	height: auto;
 	text-align: center;
-	/* margin-top: 50px; */
+	/* margin-top: 20px; */
 }
 
 .like-count-btn {
-	/* margin-top: 50px; */
+	/* margin-top: 20px; */
 }
 
 .like-count-btn button {
@@ -70,6 +70,7 @@ body {
 
 #footer-section p {
 	color: white;
+	margin-top: 6px;
 }
 
 .footer-img {
