@@ -64,7 +64,7 @@ var movie_data = [{
 
 	"movieImg": "img/saw_poster.jpg",
 
-	"movieDescription": "Saw is a 2004 American horror film[2][3] directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.",
+	"movieDescription": "Saw is a 2004 American horror film directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.",
 
 	"movieGenre": "Horror",
 

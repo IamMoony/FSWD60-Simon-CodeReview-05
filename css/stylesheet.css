@@ -1,96 +1,95 @@
-div {
+/* Just for orientation */
+
+/* div {
 	border: 1px solid red;
-}
+	} */
 
-h4 {
+/* h4 {
 	border: 1px solid red;
-}
+	} */
 
-body {
-	background-color: #171E24;
-	/* font-family: 'Oswald', sans-serif; */
-}
-#header-section h1 {
-	color: lightgrey;
-	font-weight: bold;
-}
+	body {
+		background-color: #171E24;
+		/* font-family: 'Oswald', sans-serif; */
+	}
+	#header-section h1 {
+		color: lightgrey;
+		font-weight: bold;
+	}
+	/* style navbar */
+	.navbar {
+		background-color: black;
+		border-color: lightgrey;
+	}
 
-.navbar {
-	background-color: black;
-	border-color: lightgrey;
-}
+	.navbar a {
+		font-weight: bold;
+	}
 
-.navbar a {
-	font-weight: bold;
-}
+	/* add space between the rows */
+	.col-top {
+		margin-bottom: 50px;
+		/* background-color: #111111; */
+	}
 
-/* add space between the rows */
-.col-top {
-	margin-bottom: 50px;
-	/* background-color: #111111; */
-}
+	/* style columns */
 
-.col-top p {
-	color: white;
-}
+	.col-top p {
+		color: white;
+	}
 
-.col-top h4 {
-	color: lightgrey;
-	font-weight: bold;
-}
+	.col-top h4 {
+		color: lightgrey;
+		font-weight: bold;
+	}
 
-/* image fill container */
-.img-size img {
-	width: 100%;
-	height: auto;
-}
-/* give the description a fixed height */
-.descr {
-	height: 260px;
-}
-/* center the like button */
-.like-btn {
-	height: auto;
-	text-align: center;
-}
+	/* image fill container */
+	.img-size img {
+		width: 100%;
+		height: auto;
+	}
+	/* give the description a fixed height */
+	.descr {
+		height: 260px;
+	}
+	/* center the like button */
+	.like-btn {
+		height: auto;
+		text-align: center;
+	}
 
-.like-count-btn button {
-	height: 46px;
-	width: 90px;
-	text-align: center;
-	background-color: #5DBCD2;
-	color: white;
-	font-weight: bold;
-	border-radius: 10px;
-}
+	.like-count-btn button {
+		height: 46px;
+		width: 90px;
+		text-align: center;
+		background-color: #5DBCD2;
+		color: white;
+		font-weight: bold;
+		border-radius: 10px;
+	}
 
-.like-count-btn button:hover {
-	background-color: red;
-}
+	.like-count-btn button:hover {
+		background-color: red;
+	}
 
-.like-count-btn {
-	text-align: center;
-}
+	.like-count-btn {
+		text-align: center;
+	}
 
-.genre {
-	/* margin-top: 30px; */
-}
 
-/* #footer-section {
-	margin: 0 auto;
-} */
+	/* style footer */
 
-#footer-section p {
-	color: white;
-	margin-top: 6px;
-}
+	#footer-section p {
+		color: white;
+		margin-top: 6px;
+	}
 
-.footer-img {
-	text-align: center;
-	background-color: black;
-}
+	.footer-img {
+		text-align: center;
+		background-color: black;
+	}
 
-.footer-img img {
-	width: 20%;
-}
+	.footer-img img {
+		width: 20%;
+	}
 
