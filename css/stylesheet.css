@@ -7,22 +7,38 @@ h4 {
 }
 
 body {
-	background-color: darkgray;
-	/* margin: 0 auto; */
+	background-color: #171E24;
+	/* font-family: 'Oswald', sans-serif; */
+}
+#header-section h1 {
+	color: lightgrey;
+	font-weight: bold;
 }
 
-/* #movies {
-	margin-top: 30px;
-} */
+.navbar {
+	background-color: black;
+	border-color: lightgrey;
+}
+
+.navbar a {
+	font-weight: bold;
+}
 
 /* add space between the rows */
 .col-top {
 	margin-bottom: 50px;
+	/* background-color: #111111; */
 }
-/* adjust image size */
-.img-size {
-	/* width: 200px; */
+
+.col-top p {
+	color: white;
 }
+
+.col-top h4 {
+	color: lightgrey;
+	font-weight: bold;
+}
+
 /* image fill container */
 .img-size img {
 	width: 100%;
@@ -36,11 +52,6 @@ body {
 .like-btn {
 	height: auto;
 	text-align: center;
-	/* margin-top: 20px; */
-}
-
-.like-count-btn {
-	/* margin-top: 20px; */
 }
 
 .like-count-btn button {

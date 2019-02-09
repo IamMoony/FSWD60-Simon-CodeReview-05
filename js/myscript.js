@@ -13,7 +13,7 @@ for(i = 0; i < movie_data.length; i++) {
 					<p>${movie_data[i].movieDescription}</p>
 				</div>
 				<div class="col-lg-3 like-btn">
-					<div class="btn btn-info btn-lg count-click">
+					<div class="btn btn-info btn-lg count-click" name="create_like">
 						<span class="glyphicon glyphicon-thumbs-up"></span> Like
 					</div>
 				</div>
