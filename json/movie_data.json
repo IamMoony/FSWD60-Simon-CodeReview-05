@@ -25,7 +25,7 @@ var movie_data = [{
 
 	"movieImg": "img/batman_poster.jpg",
 
-	"movieDescription": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman, directed by Christopher Nolan and written by Nolan and David S. Goyer. It stars Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe, and Morgan Freeman.",
+	"movieDescription": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman, directed by Christopher Nolan and written by Nolan and David S. Goyer.",
 
 	"movieGenre": "Action"
 },
