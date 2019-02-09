@@ -3,7 +3,7 @@
 $(document).ready(function() {
 
 for(i = 0; i < movie_data.length; i++) {
-	$("#movies").append(`<div class='col-lg-6 col-top'>
+	$("#movies").append(`<div class='col-lg-6 col-top ${movie_data[i].movieGenre}'>
 				<div class="col-lg-6 img-size">
 					<img src="${movie_data[i].movieImg}">
 				</div>
@@ -13,9 +13,9 @@ for(i = 0; i < movie_data.length; i++) {
 					<p>${movie_data[i].movieDescription}</p>
 				</div>
 				<div class="col-lg-3 like-btn">
-					<a href="#" class="btn btn-info btn-lg count-click">
+					<div class="btn btn-info btn-lg count-click">
 						<span class="glyphicon glyphicon-thumbs-up"></span> Like
-					</a>
+					</div>
 				</div>
 				<div class="col-lg-3 like-count-btn">
 					<button type="number" class="count">0</button>
