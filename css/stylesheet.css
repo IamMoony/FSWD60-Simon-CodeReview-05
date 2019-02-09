@@ -15,24 +15,24 @@ body {
 	margin-top: 30px;
 } */
 
-
+/* add space between the rows */
 .col-top {
 	margin-bottom: 50px;
 }
-
+/* adjust image size */
 .img-size {
 	/* width: 200px; */
 }
-
+/* image fill container */
 .img-size img {
 	width: 100%;
 	height: auto;
 }
-
+/* give the description a fixed height */
 .descr {
 	height: 260px;
 }
-
+/* center the like button */
 .like-btn {
 	height: auto;
 	text-align: center;
