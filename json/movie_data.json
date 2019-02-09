@@ -4,7 +4,7 @@ var movie_data = [{
 
 	"movieImg": "img/austin_powers_poster.jpg",
 
-	"movieDescription": "Austin Powers is a series of American spy action comedy films: Austin Powers: International Man of Mystery (1997), Austin Powers: The Spy Who Shagged Me (1999) and Austin Powers in Goldmember (2002). The films were directed by Jay Roach; produced, written by and starring Mike Myers as both the title character and Dr. Evil; and distributed by New Line Cinema.",
+	"movieDescription": "Austin Powers is a series of American spy action comedy films: Austin Powers: International Man of Mystery (1997), Austin Powers: The Spy Who Shagged Me (1999) and Austin Powers in Goldmember (2002).              ",
 
 	"movieGenre": "Comdey"
 },
@@ -25,7 +25,7 @@ var movie_data = [{
 
 	"movieImg": "img/batman_poster.jpg",
 
-	"movieDescription": "As a child, Bruce Wayne falls down into a dry well and is attacked by a swarm of bats, subsequently developing chiroptophobia (fear of bats). While watching an opera with his parents, Thomas and Martha, Bruce becomes frightened by performers masquerading as bats and asks to leave. Outside, mugger Joe Chill murders Bruce's parents in front of him. Orphaned, Bruce is raised by the family butler, Alfred Pennyworth, while Chill is imprisoned.",
+	"movieDescription": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman, directed by Christopher Nolan and written by Nolan and David S. Goyer. It stars Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe, and Morgan Freeman.",
 
 	"movieGenre": "Action"
 },
@@ -48,7 +48,7 @@ var movie_data = [{
 
 	"movieImg": "img/saw_poster.jpg",
 
-	"movieDescription": "Saw is a 2004 American horror film directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell. In it, Elwes and Whannell portray two men who awake to find themselves chained in a large dilapidated bathroom, with one being ordered to kill the other or his family will die. The screenplay was written by Whannell, who co-created the story with Wan in their screenwriting debuts respectively.",
+	"movieDescription": "Saw is a 2004 American horror film[2][3] directed by James Wan in his directorial debut, and starring Cary Elwes, Leigh Whannell, Danny Glover, Monica Potter, Michael Emerson, Ken Leung, and Tobin Bell.",
 
 	"movieGenre": "Horror"
 },
