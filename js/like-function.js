@@ -1,12 +1,16 @@
 //add likes on click
 $(document).ready(function() {
-	// var get_attr = $(."count-click").attr("name");
-	var likes =  0
-	$(".count-click").click(function(e)
-		{ 
-			likes++; 
-			// $(".count").html(likes);
-			alert(Object.keys($(e.target)));
+	$(".count-click").click(function(e) { 
+			var target = $(e.target);
+			var parent = target.parent().parent();
+			var obj_count = parent.find(".count")
 
+			var likes = obj_count.html();
+			likes++;
+
+			// Send a like to the server
+			// ...
+
+			obj_count.html(likes);
 	});
 });
